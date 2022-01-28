@@ -2,8 +2,9 @@
 
 Install the pip requirements in requirements.txt
 
-download weights.pth 
-download data/
+download data from https://drive.google.com/drive/folders/1KsGsHPy1GjXOPl6KC0aj2gejA6ADkMC7?usp=sharing
+
+download weights.pth and data/
 
 For running the codes for the homework:
 
